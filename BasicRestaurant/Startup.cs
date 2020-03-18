@@ -26,7 +26,8 @@ namespace BasicRestaurant
 
       services.AddEntityFrameworkMySql()
         .AddDbContext<BasicRestaurantContext>(options => options
-        .UseMySql(Configuration["ConnectionStrings:DefaultConnection"]));
+        .UseMySql(Configuration["ConnectionStrings:DefaultConnection"])); 
+        // this impact context.cs line 10
     }
 
     public void Configure(IApplicationBuilder app)
