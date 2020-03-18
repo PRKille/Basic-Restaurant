@@ -19,10 +19,12 @@ namespace BasicRestaurant.Controllers
     [HttpGet("/")]
     public ActionResult Index()
     {
-      List<BoardMember> boardMembersList = _db.Board_Members.OrderByDescending(member => member.BusinessId).ToList();
+      List<BoardMember> boardMembersList = _db.Board_Members.Where(member => member.BusinessId == 1).ToList();
       // order by descending is a method that works on db tables.. cannot perform the OrderBY on an already existing list
       List<Business> businessesList = _db.Businesses.ToList();
       ViewBag.Boards = boardMembersList;
+
+      
       return View(businessesList);
     }
   }
