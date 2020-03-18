@@ -1,0 +1,17 @@
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\obj\Debug\netcoreapp2.2\BasicRestaurant.Tests.csprojAssemblyReference.cache
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\obj\Debug\netcoreapp2.2\BasicRestaurant.Tests.AssemblyInfoInputs.cache
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\obj\Debug\netcoreapp2.2\BasicRestaurant.Tests.AssemblyInfo.cs
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.Tests.deps.json
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.Tests.runtimeconfig.json
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.Tests.runtimeconfig.dev.json
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.Tests.dll
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.Tests.pdb
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.dll
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\bin\Debug\netcoreapp2.2\BasicRestaurant.pdb
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\obj\Debug\netcoreapp2.2\BasicRestaurant.Tests.csproj.CopyComplete
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\obj\Debug\netcoreapp2.2\BasicRestaurant.Tests.dll
+C:\Users\Jamison\Desktop\BasicRestaurant.Solution\BasicRestaurant.Tests\obj\Debug\netcoreapp2.2\BasicRestaurant.Tests.pdb
